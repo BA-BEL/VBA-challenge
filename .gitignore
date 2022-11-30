@@ -127,7 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# I hope I'm doing this right–– Bel's ignoring of .xlsx and .xlsm files
-.xlsx
-.xlsm
