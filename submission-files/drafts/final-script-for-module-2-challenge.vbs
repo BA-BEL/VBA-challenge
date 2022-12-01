@@ -2,11 +2,6 @@ Attribute VB_Name = "FinalScript"
 Sub Summary_Final()
 
 'Code copied from and tested on alphabetic_testing.xlsm
-'drafts of this code, if needed can be found there^
-'I originally used another method, but I think it might have been hardcoding, so I opted to use a
-'method that stores the variables (like the criteria suggested) instead of relying on multiple counters.
-'Both yielded the same result
-
 'This code works on both workbooks
 
 Dim ws As Worksheet
